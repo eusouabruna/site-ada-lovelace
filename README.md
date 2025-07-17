@@ -1,7 +1,7 @@
 <img width="1226" height="636" alt="image" src="https://github.com/user-attachments/assets/0ba712a5-1e95-4171-b303-752c01bc606f" />  
-## Sobre o site
-O site foi feito usando html, css e javascript durante o curso da Programaria #euProgrAmo Front-End: Montando minha primeira página web. A ideia foi iniciar na programação 
-usando essas três linguagens em conjunto, aprendendo como construir cada uma delas e como unir uma a outra.  
+
+## Sobre o site  
+O site foi feito usando html, css e javascript durante o curso da Programaria #euProgrAmo Front-End: Montando minha primeira página web. A ideia foi iniciar na programação de forma técnica usando essas três linguagens em conjunto, aprendendo como construir cada uma delas e como unir uma a outra.  
 
 O tema foi a Ada Lovelace, primeira pessoa programadora que temos notícia no mundo.  
 ## Sobre o processo:  

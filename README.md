@@ -47,6 +47,8 @@ function validaFormulario () {
     }
 }
 ```
+* A PrograMaria deu alguns desafios como adicionar favicon, pseudoclasses e criar variáveis no Javascript. Consegui fazer as duas primeiras com consulta em links que o próprio curso
+dá, onde pesquisei, e na último utilizei o chatGPT para entender do que se tratavam as variáveis e consegui chegar no resultado esperado.
 ## Como visualizar o site  
 Para ver ele pronto, é só clicar em [http://eusouabruna.github.io/site-ada-lovelace/](https://eusouabruna.github.io/site-ada-lovelace/) para abrir o site. Os códigos estão 
 organizados acima e você pode ver com detalhes cada linha escrita.

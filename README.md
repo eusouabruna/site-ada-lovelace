@@ -49,6 +49,23 @@ function validaFormulario () {
 ```
 * A PrograMaria deu alguns desafios como adicionar favicon, pseudoclasses e criar variáveis no Javascript. Consegui fazer as duas primeiras com consulta em links que o próprio curso
 dá, onde pesquisei, e na último utilizei o chatGPT para entender do que se tratavam as variáveis e consegui chegar no resultado esperado.
+```javascript para JAVASCRIPT
+document.getElementById("botaoEnviar").addEventListener("click", validaFormulario)
+
+function validaFormulario () {
+    // Criação das variáveis para armazenar os valores dos campos
+    var nome = document.getElementById("nome").value
+    var email = document.getElementById("email").value
+    var telefone = document.getElementById("telefone").value
+
+    // Verificação se todos os campos foram preenchidos
+    if(nome != "" && email != "" && telefone != ""){
+        alert("Prontinho! Você receberá as novidades por email.")
+    }else{
+        alert("Por favor, preencha os campos nome, email e telefone!")
+    }
+}
+```
 ## Como visualizar o site  
 Para ver ele pronto, é só clicar em [http://eusouabruna.github.io/site-ada-lovelace/](https://eusouabruna.github.io/site-ada-lovelace/) para abrir o site. Os códigos estão 
 organizados acima e você pode ver com detalhes cada linha escrita.
